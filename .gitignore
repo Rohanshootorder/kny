@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / local configs that shouldn't be shared if sensitive
+# .env
+
+# Log files
+logs/**/*.log
+logs/*.log
